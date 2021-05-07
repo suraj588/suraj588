@@ -3,21 +3,18 @@
 
 ![gif](https://github.com/suraj588/suraj588/blob/main/code.gif)
 
-### I'm Suraj, *`Full Stack Developer`* . Highly passionate to learn new technologies and create web based products. I like to solve problems, build websites and excited to take new projects. You can visit my website [here](https://suraj588.github.io) .
+### I'm Suraj, *`Full Stack Developer`* . Highly passionate to learn new technologies and create web based products. I like to solve problems, build websites and excited to take new projects. You can visit my website [here](https://suraj588.github.io) .   
+   
+   
 
 
 
-<!--
-**suraj588/suraj588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently sharping my learned skills.
+- 🌱 Learning DSA and advanced concepts of my tech stack.
+- 👯 I’m looking to collaborate on some new projects.
+- 📫 How to reach me: [Linked-in](https://www.linkedin.com/in/suraj-bhan-singh/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My current Tech Stack :muscle: :- 
+
+![img](https://img.shields.io/badge/Frontend-HTML-yellow) ![img](https://img.shields.io/badge/Frontend-CSS-green) ![img](https://img.shields.io/badge/Language-JavaScript-yellow) ![img](https://img.shields.io/badge/Frontend-React-blue) ![img](https://img.shields.io/badge/Backend-Node.JS-yellowgreen) ![img](https://img.shields.io/badge/Backend-Express.JS-red) ![img](https://img.shields.io/badge/Backend-MongoDB-blue)
