@@ -3,7 +3,7 @@
 
 ![gif](https://github.com/suraj588/suraj588/blob/main/code.gif)
 
-### I'm Suraj, *`Full Stack Developer`* . Highly passionate to learn new technologies and create web based products. I like to solve problems, build websites and excited to take new projects. You can visit my website [here](https://suraj588.github.io) .   
+### I'm Suraj, *`Full Stack Developer`* . Highly passionate to learn new technologies and create web based products. I like to solve problems, build websites and excited to take new projects. You can visit my website [here](https://suraj588-github-io.vercel.app/). 
    
    
 
