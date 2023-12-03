@@ -22,4 +22,4 @@
 
 :stuck_out_tongue_winking_eye:
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=suraj588.363625743)
+![visits](https://visitor-badge.laobi.icu/badge?page_id=suraj588.363625743)
